@@ -1,0 +1,23 @@
+{
+  "name": "genuary2022",
+  "version": "1.0.0",
+  "description": "1. We need to create a new npm project\r ```\r npm init\r ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlackE-/genuary2022.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlackE-/genuary2022/issues"
+  },
+  "homepage": "https://github.com/BlackE-/genuary2022#readme",
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
